@@ -19,7 +19,7 @@ const obscure-raindrop = {
 }
 ```
 
-<div align="right">
+<div align="left">
 
 [![Twitter: raindrop_0x17](https://img.shields.io/twitter/follow/raindrop_0x17?style=social)](https://twitter.com/raindrop_0x17)
 [![GitHub Obscure-Raindrop](https://img.shields.io/github/followers/obscure-raindrop?label=follow&style=social)](https://github.com/obscure-raindrop)
