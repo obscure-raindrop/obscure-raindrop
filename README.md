@@ -1,5 +1,3 @@
-<img align='right' src="https://avatars.githubusercontent.com/u/165877697?s=400&u=5d7474e0819d911a4c44603016436e504e0cfff5" height="360" width="360">
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=500&color=AE59FF&center=true&multiline=true&random=false&width=435&lines=hello+there!;i+am+an+obscure+raindrop%2C+just+looking+to+learn+new+things!)](https://git.io/typing-svg)
