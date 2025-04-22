@@ -9,12 +9,12 @@
 - self-taught Reverse Engineer and Programmer (Primarily C++).
 - recovering Rust user.
 - interests: `Final Fantasy XI`, `Kingdom Hearts`, `Reverse Engineering`.
-
-## 💻tech stack
-
 - **languages:** `C++`, `C#`, `Lua`, `Python`
-- **past projects:** `kingdom hearts 3 Asset Editor`, `kingdom hearts 1|2|ReCoM Effect Editor - PS2`
-- **current projects** `unnamed kingdom hearts project`, `kingdom hearts 1|2|ReCoM Effect Editor - PC`
+
+## 📓projects
+
+- **past projects:** `kingdom hearts 3 Asset Editor`, `kingdom hearts 1|2|ReCoM effect editor - PS2`
+- **current projects** `unnamed kingdom hearts project`, `kingdom hearts 1|2|ReCoM effect editor - PC`
 
 ## 📫connect with me
 
