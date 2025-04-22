@@ -4,22 +4,21 @@
 
 </div>
 
-<pre>
-    <em>Self-taught Reverse Engineer
-    and Programmer (Primarily C++/Rust)</em>
-</pre>
+## ☔️about me
 
-### ☔️<em> a bit about me... </em>
+- self-taught Reverse Engineer and Programmer (Primarily C++).
+- recovering Rust user.
+- interests: `Final Fantasy XI`, `Kingdom Hearts`, `Reverse Engineering`.
 
-```javascript
-const obscure-raindrop = {
-  interests: [final fantasy xi, kingdom hearts, reverse engienering],
-  code: [Rust, Typescript, C++, C#, Python, Lua],
-  tools: [X, Y]
-}
-```
+## 💻tech stack
 
-<div align="left">
+- **languages:** `C++`, `C#`, `Lua`, `Python`
+- **past projects:** `kingdom hearts 3 Asset Editor`, `kingdom hearts 1|2|ReCoM Effect Editor - PS2`
+- **current projects** `unnamed kingdom hearts project`, `kingdom hearts 1|2|ReCoM Effect Editor - PC`
+
+## 📫connect with me
+
+<div align="center">
 
 [![Twitter: raindrop_0x17](https://img.shields.io/twitter/follow/raindrop_0x17?style=social)](https://twitter.com/raindrop_0x17)
 [![GitHub Obscure-Raindrop](https://img.shields.io/github/followers/obscure-raindrop?label=follow&style=social)](https://github.com/obscure-raindrop)
