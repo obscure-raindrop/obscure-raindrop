@@ -6,7 +6,7 @@
 
 ## ☔️about me
 
-- self-taught Reverse Engineer and Programmer (Primarily C++).
+- self-taught Reverse Engineer and Programmer (Primarily C++ and C#).
 - recovering Rust user.
 - interests: `Final Fantasy XI`, `Kingdom Hearts`, `Reverse Engineering`.
 - languages: `C++`, `C#`, `Lua`, `Python`
