@@ -11,12 +11,12 @@
 - interests: `Final Fantasy XI`, `Kingdom Hearts`, `Reverse Engineering`.
 - languages: `C++`, `C#`, `Lua`, `Python`
 
-## 📓projects
+## projects
 
 - **past projects:** `kingdom hearts 3 asset editor`, `kingdom hearts 1|2|ReCoM effect editor - PS2`
 - **current projects** `unnamed kingdom hearts project`, `kingdom hearts 1|2|ReCoM effect editor - PC`
 
-## 📫connect with me
+## connect with me
 
 <div align="center">
 
